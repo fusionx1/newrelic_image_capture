@@ -1,0 +1,1 @@
+# newrelic_image_capture
