@@ -8,4 +8,4 @@ This is a prototype in capturing newrelic metric using casperjs and phantomjs
 4. Working Yubi(Tested on gpg2)
 
 ## Usage
-casperjs --cookies-file=cookie.txt newlic_capture.js
+casperjs --cookies-file=cookie.txt newrelic_capture.js
