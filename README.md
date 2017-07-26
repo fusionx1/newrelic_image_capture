@@ -1,1 +1,1 @@
-# newrelic_image_capture
+# This is a prototype in capturing newrelic metric using casperjs and phantomjs
